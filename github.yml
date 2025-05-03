@@ -1,2 +1,1 @@
-- name: Discord notifications
-  uses: cl8dep/action-discord@0.1
+
